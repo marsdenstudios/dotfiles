@@ -46,6 +46,9 @@ bindsym $mod+b $exi urxvt -e mpsyt
 # start vim
 bindsym $mod+v $exi urxvt -e vim
 
+# start alsamixer
+bindsym $mod+c $exi urxvt -e alsamixer
+
 
 
 # kill focused window
