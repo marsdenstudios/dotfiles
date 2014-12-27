@@ -189,7 +189,9 @@ $exi setxkbmap us
 $exi spacefm -d
 
 # Wallpaper
-nitrogen --restore &
+
+$exi nitrogen --restore &
+
 
 client.focused #859900 #859900 #fdf6e3 #859900
 client.focused_inactive #073642 #073642 #eee8d5 #6c71c4
